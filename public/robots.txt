@@ -1,0 +1,5 @@
+# https://windowworksres.com
+User-agent: *
+Allow: /
+
+Sitemap: https://windowworksres.com/sitemap.xml
